@@ -1,0 +1,54 @@
+
+h1 {
+color:white;
+text-align:center;
+
+}
+
+
+
+h3 {
+    text-align:center;
+    font-size:30px;
+    font-family:Helvetica;
+    color:rgb(255, 255, 255);
+}
+body {
+    background-image:url("http://2.bp.blogspot.com/--JDGMaJ719Y/TeBva-NEIsI/AAAAAAAAFsI/FmPZ05xXx1U/s1600/Green%2BTrees%2Bin%2BGarden%2BWallpaper.jpg");
+    background-repeat:no-repeat;
+    background-size:800px 300px;
+}
+p {
+    font-size:20px;
+    font-family:'Oswald', sans-serif;
+    line-height: 1.5;
+    color:rgb(255, 255, 255);
+    border-style:solid;
+    margin-bottom:70px;
+}
+
+a:hover {
+    color:yellow;
+}
+
+img {
+    display:block;
+    border-radius:300px;
+    margin-left:200px;
+    margin-top:400px;
+}
+
+ul,ol {
+    font-family:'Roboto', sans-serif;
+    text-decoration:underline;
+    font-size:30px;
+    background-color:red;
+    color:white;
+}
+
+li {
+color:blue;
+font-size:30px;
+font-family:'Saira Extra Condensed', sans-serif;;
+}
+
