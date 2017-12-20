@@ -1,0 +1,17 @@
+h2,h4, label {
+    color: white;
+    border: solid white 2px;
+}
+
+h3 {
+    color:yellow;
+}
+h1{
+    color:red;
+}
+
+body {
+    background-color:black;
+  background-repeat:no-repeat;
+}
+
