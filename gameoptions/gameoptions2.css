@@ -1,0 +1,28 @@
+.q1, .q2, .q3, .q1-choice, .q2-choice, .q3-choice {
+    display:none;
+    color:#e7eff6;
+}
+
+body {
+    background-color:#2a4d69;
+}
+
+.sidebar {
+    float: left;
+    color: #adcbe3;
+    background-color:#adcbe3;
+    height:200px;
+    font-size:20px;
+    margin-right:50px;
+    
+    
+}
+
+.content {
+    font-size: 30px
+}
+
+.narrative{
+    color:white;
+}
+
