@@ -1,0 +1,56 @@
+body {
+   background-image: url("https://media-exp2.licdn.com/mpr/mpr/AAEAAQAAAAAAAATOAAAAJDE2NDQ3ZjkzLTljOTAtNDU2Mi04NGRlLTc5NWRkZTYwNzNlMQ.jpg");
+    background-repeat:no-repeat;
+    background-size:100% 20%;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+}
+
+p {
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size:30px;
+}
+    
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    margin-top:300px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 15px;
+    text-decoration: none;
+}
+
+.active {
+    background-color:red;
+}
+li a:hover {
+    background-color: #111;
+}
+
+
+table, tr, td {
+    border: 1px solid black;
+    margin-top:100px;
+    text-align:center;
+}
+
+th,td {
+    padding:5px;
+    margin-top:300px;
+    
+}
