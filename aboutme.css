@@ -1,0 +1,84 @@
+  body {
+      background-image: url("https://media-exp2.licdn.com/mpr/mpr/AAEAAQAAAAAAAATOAAAAJDE2NDQ3ZjkzLTljOTAtNDU2Mi04NGRlLTc5NWRkZTYwNzNlMQ.jpg");
+     background-size:100% 13%;
+     background-repeat:no-repeat;
+     
+  }
+
+    
+h2{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: red;
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 72px;
+    color: white;
+    padding: 5px;
+    text-align:center;
+    border:2px solid white;
+}
+
+img {
+  border-radius:200px;  
+  height:10em;
+  width:10em;
+}
+
+p{
+    font-family: 'Sintony', sans-serif;
+    font-size: 26px;
+    line-height: 1.2em;
+    color: white;
+    background-color:red;
+    text-align:center;
+}
+
+u{
+    background-color:red;
+    color:white;
+}
+
+
+li{
+    font-family: 'Roboto', serif;
+    font-size: 24px;
+    line-height: 1.4em;
+}
+
+
+a:link{
+    color: rgb(2, 30, 64);
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(0, 135, 3);
+}
+
+a:hover{
+    color: blue;
+}
+
+
+.list{
+    margin:0;
+    padding:0;
+}
+
+.topics{
+    font-size: 36px;
+    list-style-type: none;
+    color:  #04326B;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
