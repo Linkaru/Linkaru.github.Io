@@ -1,6 +1,5 @@
 var game;
 var starfield;
-var NUMCAKES = 3;
 var ship;
 
 function Cake(){
